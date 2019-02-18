@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZHELLO.
 
-write: 'Hello git!'.
+write: 'Hello git changed!'.
